@@ -1,0 +1,26 @@
+{
+  "name": "base_project",
+  "version": "1.0.0",
+  "description": "A base node project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnDennisJackson/base_project.git"
+  },
+  "keywords": [
+    "base",
+    "project",
+    "JDJ",
+    "base",
+    "node"
+  ],
+  "author": "JDJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnDennisJackson/base_project/issues"
+  },
+  "homepage": "https://github.com/JohnDennisJackson/base_project#readme"
+}
